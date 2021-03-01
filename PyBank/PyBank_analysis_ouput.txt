@@ -1,0 +1,6 @@
+PyBank Analytical Output.
+Total number of months is 86.
+Total Profit or Loss is $38382578.
+Average Change: $-2315.12.
+Greatest Increase in Profits: occurred in Feb-2012 and was for $1926159.
+Greatest Decrease in Profits: occurred in Sep-2013 and $-2196167.
