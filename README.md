@@ -1,4 +1,4 @@
-# python-homework  
+# Pybank_Analysis  
 Analysis of PyBank financials using Python code.  
 This assignment utilizes:
 * Importing Path and csv
